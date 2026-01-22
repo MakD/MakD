@@ -44,11 +44,14 @@
 > A native Android client for Jellyfin built with Jetpack Compose and Material 3.
 
 <p align="left">
-  <a href="https://github.com/makd/AFinity/releases">
-    <img src="https://img.shields.io/github/v/release/makd/AFinity?color=00C02E&label=Latest&style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/github/stars/makd/AFinity?style=flat-square&logo=star&color=fac52b" />
-  <img src="https://img.shields.io/github/downloads/makd/AFinity/total?style=flat-square&color=blue" />
+    <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E" alt="Release" />
+  <img src="https://img.shields.io/github/commits-since/MakD/AFinity/latest?sort=date&style=for-the-badge&labelColor=000000&color=465775" alt="Commits since latest" />
+  <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D" alt="Commit Activity" />
+  
+  <br/>
+    <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee" alt="Stars" />
+    <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446" alt="Total Downloads" />
+  <img src="https://img.shields.io/github/downloads/MakD/AFinity/latest/total?sort=date&style=for-the-badge&logo=%20&logoColor=white&labelColor=black&color=A3D78A" alt="Latest Release Downloads" />
 </p>
 
 ---
@@ -59,16 +62,18 @@
   <tr>
     <td width="50%">
       <h4 align="center">🧟‍♂️ Zombie Release</h4>
-      <p align="center">A unified aesthetic theme for Jellyfin 10.9.x merging popular palettes.</p>
+      <p align="center">A unified aesthetic theme for Jellyfin 10.9.x.</p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/makd/zombie-release?style=social" />
+        <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
+        <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css&logoColor=white&labelColor=663399&color=000000" />
       </p>
     </td>
     <td width="50%">
       <h4 align="center">🎭 Jellyfin Media Bar</h4>
-      <p align="center">UI enhancement adding a customizable media bar to Jellyfin Web.</p>
+      <p align="center">Adds a customizable media bar to Jellyfin Web.</p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=social" />
+        <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
+        <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F&color=000000" />
       </p>
     </td>
   </tr>
