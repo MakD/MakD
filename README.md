@@ -4,6 +4,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=transparent&hide_border=false)](https://git.io/streak-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/makd/makd/output/github-snake.svg">
+</picture>
 <!--
 **MakD/MakD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
