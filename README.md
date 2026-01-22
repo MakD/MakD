@@ -10,31 +10,72 @@
 </p>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
-    height="150"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
-    height="150"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
+      height="150"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
+      height="150"
+    />
+  </picture>
   
   <br/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
-    height="150"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
+      height="150"
+    />
+  </picture>
 
   <br/>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=flat&no-frame=true&margin-w=15"
+    />
     <img
       src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15"
       alt="MakD's Trophies"
     />
+  </picture>
 </div>
 
 <br/>
-
 
 ### 📱 Android Engineering
 <p align="left">
