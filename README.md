@@ -33,7 +33,7 @@
 ### 🎨 Web & Theming
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -44,13 +44,14 @@
 > A native Android client for Jellyfin built with Jetpack Compose and Material 3.
 
 <p align="left">
-    <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E" alt="Release" />
+  <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E" alt="Release" />
   <img src="https://img.shields.io/github/commits-since/MakD/AFinity/latest?sort=date&style=for-the-badge&labelColor=000000&color=465775" alt="Commits since latest" />
   <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D" alt="Commit Activity" />
   
   <br/>
-    <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee" alt="Stars" />
-    <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446" alt="Total Downloads" />
+
+  <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee" alt="Stars" />
+  <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446" alt="Total Downloads" />
   <img src="https://img.shields.io/github/downloads/MakD/AFinity/latest/total?sort=date&style=for-the-badge&logo=%20&logoColor=white&labelColor=black&color=A3D78A" alt="Latest Release Downloads" />
 </p>
 
@@ -58,26 +59,21 @@
 
 ### 🔮 Ecosystem Contributions
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🧟‍♂️ Zombie Release</h4>
-      <p align="center">A unified aesthetic theme for Jellyfin 10.9.x.</p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-        <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css&logoColor=white&labelColor=663399&color=000000" />
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">🎭 Jellyfin Media Bar</h4>
-      <p align="center">Adds a customizable media bar to Jellyfin Web.</p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-        <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F&color=000000" />
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🧟‍♂️ [Zombie Release](https://github.com/makd/zombie-release)
+> A unified aesthetic theme for Jellyfin 10.9.x.
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
+  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css3&logoColor=white&labelColor=663399&color=000000" />
+</p>
+
+#### 🎭 [Jellyfin Media Bar](https://github.com/makd/jellyfin-media-bar)
+> Adds a customizable media bar to Jellyfin Web.
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
+  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F&color=000000" />
+</p>
 
 ---
 
@@ -101,5 +97,7 @@
 ## Reach out
 
 <p align="center">
-  <a href="https://discord.com/channels/1381737066366242896/1422939582533730325"><img alt="Discord" src="https://img.shields.io/badge/AFinity-%20Jellyfin%20Community?&logo=discord&logoColor=white&style=for-the-badge&label=Jellyfin%20Community&labelColor=black&color=5865F2"></a>
+  <a href="https://discord.com/channels/1381737066366242896/1422939582533730325">
+    <img alt="Discord" src="https://img.shields.io/badge/AFinity-%20Jellyfin%20Community?&logo=discord&logoColor=white&style=for-the-badge&label=Jellyfin%20Community&labelColor=black&color=5865F2">
+  </a>
 </p>
