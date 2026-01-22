@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -54,10 +55,11 @@
 ---
 
 ### 🚧 Currently Building
-
-- 🎬 **AFinity** — Modern Jellyfin client (Material 3 + LibMPV)
-- 🧩 **Jellyfin UI Plugins** — SPA-safe UI injections & enhancements
-- 🧠 **Media UX Experiments** — Slideshows, trailers, discovery flows
+- 🎬 **AFinity** — Android Jellyfin client with Material 3 UX and advanced playback capabilities
+- 🎨 **Jellyfin Media Bar** — A UI enhancement that adds a customizable, media-style bar to Jellyfin Web  
+  ![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=flat-square&logo=javascript&logoColor=white)
+- 🧟‍♂️ **zombie-release** — A Jellyfin 10.9.x theme that merges popular theme palettes into a unified aesthetic experience  
+  ![jsDelivr hits](https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=flat-square&logo=css&logoColor=white)
 
 ---
 
