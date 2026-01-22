@@ -1,24 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">M0RPHi · Open-source Enthusiast · Builder</h3>
 
-![M0RPHi's GitHub stats](https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&theme=transparent)
+<p align="center">
+  <em>Crafting clean, performant experiences — one commit at a time.</em>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/makd/makd/output/github-snake.svg">
-</picture>
-<!--
-**MakD/MakD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&theme=transparent"
+    alt="M0RPHi's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=transparent"
+    alt="GitHub streak"
+    height="165"
+  />
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/makd/makd/output/github-snake.svg"
+      width="90%"
+    />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>🐍 Because even commits deserve to move.</sub>
+</p>
