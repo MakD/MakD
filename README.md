@@ -18,9 +18,26 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
     height="150"
   />
+  
+  <br/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&hide=html,css,scss&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true"
+    height="150"
+  />
+
+  <br/>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=makd&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7"
+      alt="MakD's Trophies"
+    />
+  </a>
 </div>
 
 <br/>
+
 
 ### 📱 Android Engineering
 <p align="left">
