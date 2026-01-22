@@ -87,8 +87,8 @@
 
 ### 🎨 Web & Theming
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 ---
@@ -119,7 +119,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css3&logoColor=white&labelColor=663399&color=000000" />
+  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css&logoColor=white&labelColor=663399&color=000000" />
 </p>
 
 #### 🎭 [Jellyfin Media Bar](https://github.com/makd/jellyfin-media-bar)
@@ -127,7 +127,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F&color=000000" />
+  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=323330&labelColor=F7DF1E&color=000000" />
 </p>
 
 ---
