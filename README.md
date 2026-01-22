@@ -28,11 +28,11 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
+      srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true"
+      srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true"
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
