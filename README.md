@@ -97,8 +97,9 @@
   </picture>
 </p>
 
+
+## Reach out
+
 <p align="center">
-  <a href="https://discord.gg/Ab9GgzSQNk">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <a href="https://discord.com/channels/1381737066366242896/1422939582533730325"><img alt="Discord" src="https://img.shields.io/badge/AFinity-%20Jellyfin%20Community?&logo=discord&logoColor=white&style=for-the-badge&label=Jellyfin%20Community&labelColor=black&color=5865F2"></a>
 </p>
