@@ -27,13 +27,10 @@
   />
 
   <br/>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=makd&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7"
+      src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15"
       alt="MakD's Trophies"
     />
-  </a>
 </div>
 
 <br/>
@@ -44,7 +41,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=a" />
 </p>
 
 ### 🎨 Web & Theming
