@@ -11,7 +11,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&hide_rank=false"
+    src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
     height="150"
   />
   <img
@@ -22,7 +22,7 @@
   <br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
     height="150"
   />
 
