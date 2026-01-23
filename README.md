@@ -1,158 +1,284 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00C02E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I+am+M0RPHi;Android+Engineer;Jellyfin+Ecosystem+Builder"
-    alt="Typing SVG"
-  />
-</h1>
-
-<p align="center">
-  <em>Crafting opinionated, Material 3 experiences for the open media ecosystem.</em>
-</p>
-
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false"
-      height="150"
-    />
-  </picture>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true"
-      height="150"
-    />
-  </picture>
-  
-  <br/>
+<!-- Custom Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=M0RPHi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00C02E&desc=Android%20Engineer%20%E2%80%A2%20Jellyfin%20Ecosystem%20Builder&descAlignY=55&descSize=18"/>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent"
-      height="150"
-    />
-  </picture>
-
-  <br/>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15"
-    />
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=flat&no-frame=true&margin-w=15"
-    />
-    <img
-      src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15"
-      alt="MakD's Trophies"
-    />
-  </picture>
 </div>
 
-<br/>
-
-### 📱 Android Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-### 🎨 Web & Theming
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
-</p>
-
----
-
-### 🚀 Flagship Project
-
-#### 🎬 [AFinity](https://github.com/makd/AFinity)
-> A native Android client for Jellyfin built with Jetpack Compose and Material 3.
-
-<p align="left">
-  <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E" alt="Release" />
-  <img src="https://img.shields.io/github/commits-since/MakD/AFinity/latest?sort=date&style=for-the-badge&labelColor=000000&color=465775" alt="Commits since latest" />
-  <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D" alt="Commit Activity" />
+<div align="center">
   
-  <br/>
+### 🎯 Crafting opinionated, Material 3 experiences for the open media ecosystem
 
-  <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee" alt="Stars" />
-  <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446" alt="Total Downloads" />
-  <img src="https://img.shields.io/github/downloads/MakD/AFinity/latest/total?sort=date&style=for-the-badge&logo=%20&logoColor=white&labelColor=black&color=A3D78A" alt="Latest Release Downloads" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00C02E&center=true&vCenter=true&width=600&lines=Building+native+Android+experiences;Material+3+%E2%80%A2+Jetpack+Compose+%E2%80%A2+Kotlin;Open+source+enthusiast;Jellyfin+community+contributor)](https://git.io/typing-svg)
 
----
+</div>
 
-### 🔮 Ecosystem Contributions
+<!-- Stats Section with Custom Layout -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+          <img src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### 🧟‍♂️ [Zombie Release](https://github.com/makd/zombie-release)
-> A unified aesthetic theme for Jellyfin 10.9.x.
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css&logoColor=white&labelColor=663399&color=000000" />
-</p>
+<!-- Language Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" height="180"/>
+</picture>
 
-#### 🎭 [Jellyfin Media Bar](https://github.com/makd/jellyfin-media-bar)
-> Adds a customizable media bar to Jellyfin Web.
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=000000" />
-  <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=323330&labelColor=F7DF1E&color=000000" />
-</p>
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🛠️ Technology Arsenal
 
-### 📊 Commit History
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg?palette=github-dark&color_snake=00C02E&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/makd/makd/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+### 🌐 Web & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Reach out
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <a href="https://discord.com/channels/1381737066366242896/1422939582533730325">
-    <img alt="Discord" src="https://img.shields.io/badge/AFinity-%20Jellyfin%20Community?&logo=discord&logoColor=white&style=for-the-badge&label=Jellyfin%20Community&labelColor=black&color=5865F2">
-  </a>
-</p>
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🎬 [AFinity](https://github.com/makd/AFinity)
+**A native Android client for Jellyfin built with Jetpack Compose and Material 3**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E&logo=android" alt="Release" />
+      <br><sub><b>Latest Release</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee&logo=github" alt="Stars" />
+      <br><sub><b>Community Stars</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446&logo=github" alt="Downloads" />
+      <br><sub><b>Total Downloads</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D&logo=git" alt="Activity" />
+      <br><sub><b>Weekly Activity</b></sub>
+    </td>
+  </tr>
+</table>
+
+```kotlin
+// The AFinity Philosophy
+fun buildApp() = MaterialTheme {
+    // Opinionated design decisions
+    // Native Android experience first
+    // Material 3 design language
+    // Performance & polish
+}
+```
+
+<details>
+<summary>🎨 <b>Key Features</b></summary>
+<br>
+
+- ✨ **Material You** - Dynamic color theming
+- 🎯 **Native Experience** - Built specifically for Android
+- ⚡ **Performance First** - Smooth, responsive UI
+- 🎨 **Beautiful Design** - Attention to every detail
+- 🔧 **Active Development** - Regular updates and improvements
+
+</details>
+
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎨 Ecosystem Contributions
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧟‍♂️ <a href="https://github.com/makd/zombie-release">Zombie Release</a></h3>
+      <p><i>Unified aesthetic theme for Jellyfin 10.9.x</i></p>
+      <img src="https://img.shields.io/github/stars/makd/zombie-release?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=00C02E" />
+      <img src="https://img.shields.io/jsdelivr/gh/hm/makd/zombie-release?style=for-the-badge&logo=css&logoColor=white&labelColor=663399&color=00C02E" />
+      <br><br>
+      <sub>Bringing cohesive design to Jellyfin Web</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎭 <a href="https://github.com/makd/jellyfin-media-bar">Jellyfin Media Bar</a></h3>
+      <p><i>Customizable media bar for Jellyfin Web</i></p>
+      <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=00C02E" />
+      <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=323330&labelColor=F7DF1E&color=00C02E" />
+      <br><br>
+      <sub>Enhanced navigation experience</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Design Philosophy
+
+<div align="center">
+
+```
+Opinionated Design → Better User Experience
+Material 3 Guidelines → Modern Android Feel
+Open Source First → Community Driven Development
+Performance Matters → Every Frame Counts
+```
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/android-os.png" width="64"/>
+      <br><b>Android First</b>
+      <br><sub>Native experiences built for Android users</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/material-ui.png" width="64"/>
+      <br><b>Material 3</b>
+      <br><sub>Following the latest design guidelines</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/source-code.png" width="64"/>
+      <br><b>Open Source</b>
+      <br><sub>Building for the community</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 Activity & Achievements
+
+<div align="center">
+
+<!-- Trophies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Trophies" />
+</picture>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/makd/makd/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/makd/makd/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+### Let's build something amazing together!
+
+<a href="https://discord.com/channels/1381737066366242896/1422939582533730325">
+  <img src="https://img.shields.io/badge/Discord-Join%20AFinity%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/github.png" width="32"/>
+      <br><sub><b>Open Source</b></sub>
+      <br><sub>Check out my projects</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/bug.png" width="32"/>
+      <br><sub><b>Bug Reports</b></sub>
+      <br><sub>Help improve AFinity</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/star.png" width="32"/>
+      <br><sub><b>Feature Ideas</b></sub>
+      <br><sub>Share your thoughts</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/code.png" width="32"/>
+      <br><sub><b>Contributions</b></sub>
+      <br><sub>PRs always welcome</sub>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Currently Working On
+
+![AFinity Development](https://img.shields.io/badge/AFinity-Active%20Development-00C02E?style=for-the-badge&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-Research-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Jellyfin Ecosystem](https://img.shields.io/badge/Jellyfin-Ecosystem%20Building-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+
+</div>
+
+<!-- Custom Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 📈 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=makd&color=00C02E&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/makd?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00C02E)
+
+<br>
+
+<sub>💚 Made with passion for the Android & Jellyfin communities</sub>
+<br>
+<sub>⚡ Powered by Kotlin, Jetpack Compose, and Material 3</sub>
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer"/>
