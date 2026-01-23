@@ -89,28 +89,6 @@
   </tr>
 </table>
 
-```kotlin
-// The AFinity Philosophy
-fun buildApp() = MaterialTheme {
-    // Opinionated design decisions
-    // Native Android experience first
-    // Material 3 design language
-    // Performance & polish
-}
-```
-
-<details>
-<summary>🎨 <b>Key Features</b></summary>
-<br>
-
-- ✨ **Material You** - Dynamic color theming
-- 🎯 **Native Experience** - Built specifically for Android
-- ⚡ **Performance First** - Smooth, responsive UI
-- 🎨 **Beautiful Design** - Attention to every detail
-- 🔧 **Active Development** - Regular updates and improvements
-
-</details>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -141,17 +119,6 @@ fun buildApp() = MaterialTheme {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Design Philosophy
-
-<div align="center">
-
-```
-Opinionated Design → Better User Experience
-Material 3 Guidelines → Modern Android Feel
-Open Source First → Community Driven Development
-Performance Matters → Every Frame Counts
-```
-
-</div>
 
 <table align="center">
   <tr>
