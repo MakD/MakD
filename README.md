@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Custom Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=M0RPHi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=00C02E&desc=Android%20Engineer%20%E2%80%A2%20Jellyfin%20Ecosystem%20Builder&descAlignY=55&descSize=18"/>
 
 </div>
@@ -13,31 +12,22 @@
 
 </div>
 
-<!-- Stats Section with Custom Layout -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
-          <img src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true" />
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=default&background=ffffff&ring=00C02E&fire=00C02E&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&hide_border=true" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
+    </picture>
+
 </div>
 
 <div align="center">
 
-<!-- Language Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
@@ -46,34 +36,29 @@
 
 </div>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+<h3>🛠️ Technology Arsenal</h3>
 
-### 🌐 Web & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=kotlin&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-181717?style=for-the-badge&logo=jetpackcompose&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Material%203-181717?style=for-the-badge&logo=materialdesign&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Android-181717?style=for-the-badge&logo=android&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Gradle-181717?style=for-the-badge&logo=gradle&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Android%20Studio-181717?style=for-the-badge&logo=androidstudio&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=00C02E" />
+</p>
 
 </div>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
@@ -128,7 +113,6 @@ fun buildApp() = MaterialTheme {
 
 </div>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎨 Ecosystem Contributions
@@ -154,7 +138,6 @@ fun buildApp() = MaterialTheme {
   </tr>
 </table>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 Design Philosophy
@@ -190,18 +173,16 @@ Performance Matters → Every Frame Counts
   </tr>
 </table>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 Activity & Achievements
 
 <div align="center">
 
-<!-- Trophies -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4" />
-  <img src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app//?username=makd&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </picture>
 
 ### 🐍 Contribution Snake
@@ -214,7 +195,6 @@ Performance Matters → Every Frame Counts
 
 </div>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect & Collaborate
@@ -262,7 +242,6 @@ Performance Matters → Every Frame Counts
 
 </div>
 
-<!-- Custom Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -280,5 +259,4 @@ Performance Matters → Every Frame Counts
 
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer"/>
