@@ -68,9 +68,9 @@
 ### 🎬 [AFinity](https://github.com/makd/AFinity)
 **A native Android client for Jellyfin built with Jetpack Compose and Material 3**
 
-<img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E&logo=android" alt="Release" />
 <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee&logo=github" alt="Stars" />
 <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446&logo=github" alt="Downloads" />
+<img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E&logo=android" alt="Release" />
 <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D&logo=git" alt="Activity" />
 
 </div>
