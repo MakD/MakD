@@ -68,26 +68,10 @@
 ### 🎬 [AFinity](https://github.com/makd/AFinity)
 **A native Android client for Jellyfin built with Jetpack Compose and Material 3**
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E&logo=android" alt="Release" />
-      <br><sub><b>Latest Release</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee&logo=github" alt="Stars" />
-      <br><sub><b>Community Stars</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446&logo=github" alt="Downloads" />
-      <br><sub><b>Total Downloads</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D&logo=git" alt="Activity" />
-      <br><sub><b>Weekly Activity</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/github/v/release/MakD/AFinity?style=for-the-badge&labelColor=000000&color=41A67E&logo=android" alt="Release" />
+<img src="https://img.shields.io/github/stars/MakD/AFinity?style=for-the-badge&labelColor=000000&color=7b68ee&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/downloads/MakD/AFinity/total?style=for-the-badge&labelColor=000000&color=333446&logo=github" alt="Downloads" />
+<img src="https://img.shields.io/github/commit-activity/w/MakD/AFinity?style=for-the-badge&labelColor=000000&color=05668D&logo=git" alt="Activity" />
 
 </div>
 
