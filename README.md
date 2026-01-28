@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Android-181717?style=for-the-badge&logo=android&logoColor=00C02E" />
   <img src="https://img.shields.io/badge/Gradle-181717?style=for-the-badge&logo=gradle&logoColor=00C02E" />
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=00C02E" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=00C02E" />
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=00C02E" />
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=00C02E" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C02E" />
