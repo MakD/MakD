@@ -155,7 +155,7 @@
 ### Let's build something amazing together!
 
 <a href="https://discord.com/channels/1381737066366242896/1422939582533730325">
-  <img src="https://img.shields.io/badge/Discord-Join%20AFinity%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-Join%20AFinity%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
 </a>
 
 <br><br>
@@ -187,9 +187,9 @@
 
 ### 🎯 Currently Working On
 
-![AFinity Development](https://img.shields.io/badge/AFinity-Active%20Development-00C02E?style=for-the-badge&logo=android&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material%203-Research-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Jellyfin Ecosystem](https://img.shields.io/badge/Jellyfin-Ecosystem%20Building-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+![AFinity Development](https://img.shields.io/badge/AFinity-Active%20Development-00C02E?style=for-the-badge&logo=android&logoColor=white&labelColor=000000&color=ABC4FF)
+![Material 3](https://img.shields.io/badge/Material%203-Research-757575?style=for-the-badge&logo=materialdesign&logoColor=white&labelColor=000000&color=FFEE93)
+![Jellyfin Ecosystem](https://img.shields.io/badge/Jellyfin-Ecosystem%20Building-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white&labelColor=000000&color=ADF7B6)
 
 </div>
 
