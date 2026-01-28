@@ -200,6 +200,7 @@
 ### 📈 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=makd&color=00C02E&style=for-the-badge&label=Profile+Views)
+![GitHub User's stars](https://img.shields.io/github/stars/MakD?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&labelColor=000000&color=f2da0f)
 ![Followers](https://img.shields.io/github/followers/makd?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00C02E)
 
 <br>
