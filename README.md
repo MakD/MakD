@@ -42,20 +42,14 @@
 
 <h3>🛠️ Technology Arsenal</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=kotlin&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-181717?style=for-the-badge&logo=jetpackcompose&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Material%203-181717?style=for-the-badge&logo=materialdesign&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Android-181717?style=for-the-badge&logo=android&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Gradle-181717?style=for-the-badge&logo=gradle&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Android%20Studio-181717?style=for-the-badge&logo=androidstudio&logoColor=00C02E" />
-  <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=00C02E" />
-</p>
+| Category | Technologies |
+|----------|-------------|
+| **📱 Mobile Development** | ![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=kotlin&logoColor=00C02E) ![Android](https://img.shields.io/badge/Android-181717?style=for-the-badge&logo=android&logoColor=00C02E) ![Android Studio](https://img.shields.io/badge/Android%20Studio-181717?style=for-the-badge&logo=androidstudio&logoColor=00C02E) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-181717?style=for-the-badge&logo=jetpackcompose&logoColor=00C02E) ![Material 3](https://img.shields.io/badge/Material%203-181717?style=for-the-badge&logo=materialdesign&logoColor=00C02E) ![Gradle](https://img.shields.io/badge/Gradle-181717?style=for-the-badge&logo=gradle&logoColor=00C02E) |
+| **🌐 Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=00C02E) ![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=00C02E) ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=00C02E) ![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=00C02E) ![Sass](https://img.shields.io/badge/Sass-181717?style=for-the-badge&logo=sass&logoColor=00C02E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-181717?style=for-the-badge&logo=tailwindcss&logoColor=00C02E) |
+| **⚙️ Backend & Server** | ![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=nodedotjs&logoColor=00C02E) ![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=00C02E) ![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=00C02E) ![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=00C02E) |
+| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=00C02E) ![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=00C02E) ![SQLite](https://img.shields.io/badge/SQLite-181717?style=for-the-badge&logo=sqlite&logoColor=00C02E) |
+| **🎨 Design & Creative** | ![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=00C02E) ![Photoshop](https://img.shields.io/badge/Photoshop-181717?style=for-the-badge&logo=adobephotoshop&logoColor=00C02E) ![Illustrator](https://img.shields.io/badge/Illustrator-181717?style=for-the-badge&logo=adobeillustrator&logoColor=00C02E) |
+| **🔧 Tools & Systems** | ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=00C02E) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C02E) ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=00C02E) ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=00C02E) |
 
 </div>
 
