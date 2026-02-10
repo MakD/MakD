@@ -29,9 +29,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" height="180"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=ffffff&text_color=000000&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=makd&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00C02E&hide_border=true&theme=transparent&langs_count=8" height="180"/>
 </picture>
 
 </div>
