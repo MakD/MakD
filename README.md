@@ -14,9 +14,9 @@
 
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-stats-extended.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=ffffff&text_color=000000&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
+      <img width="48%" src="https://github-stats-extended.vercel.app/api?username=makd&show_icons=true&show_title=false&bg_color=0d1117&text_color=ffffff&title_color=00C02E&icon_color=00C02E&hide_border=true&rank_icon=github&theme=transparent&hide_rank=false" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-umber-gamma.vercel.app?user=MakD&theme=dark&background=0d1117&ring=00C02E&fire=00C02E&currStreakNum=ffffff&currStreakLabel=00C02E&sideNums=ffffff&sideLabels=ffffff&hide_border=true" />
