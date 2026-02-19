@@ -193,7 +193,7 @@
 
 ### 📈 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=makd&color=00C02E&style=for-the-badge&label=Profile+Views)
+[![Hits](https://hits.sh/gitHub.com/MakD.svg?style=for-the-badge&label=Profile%20Views&extraCount=733&color=007ec6&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMCAxMmEyIDIgMCAxIDAgNCAwYTIgMiAwIDAgMCAtNCAwIiAvPjxwYXRoIGQ9Ik0yMSAxMmMtMi40IDQgLTUuNCA2IC05IDZjLTMuNiAwIC02LjYgLTIgLTkgLTZjMi40IC00IDUuNCAtNiA5IC02YzMuNiAwIDYuNiAyIDkgNiIgLz48L3N2Zz4%3D)](https://hits.sh/gitHub.com/MakD/)
 ![GitHub User's stars](https://img.shields.io/github/stars/MakD?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&labelColor=000000&color=f2da0f)
 ![Followers](https://img.shields.io/github/followers/makd?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00C02E)
 
