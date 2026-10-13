@@ -88,6 +88,8 @@
       <p><i>Customizable media bar for Jellyfin Web</i></p>
       <img src="https://img.shields.io/github/stars/makd/jellyfin-media-bar?style=for-the-badge&logo=github&logoColor=white&labelColor=30364F&color=00C02E" />
       <img src="https://img.shields.io/jsdelivr/gh/hm/makd/Jellyfin-Media-Bar?style=for-the-badge&logo=javascript&logoColor=323330&labelColor=F7DF1E&color=00C02E" />
+      <img src="https://img.shields.io/jsdelivr/gh/hm/IAmParadox27/jellyfin-plugin-media-bar?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F&color=435274" />
+
       <br><br>
       <sub>Enhanced navigation experience</sub>
     </td>
